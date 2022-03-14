@@ -31,6 +31,12 @@ github_username:  sebkolind
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-analytics
+
+# Plugin settings
+jekyll_analytics:
+  GoogleAnalytics:
+    id: G-2JSHE23ZWZ
 
 # Exclude from processing.
 # The following items will not be processed, by default.
