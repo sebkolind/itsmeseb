@@ -3,9 +3,11 @@ entries:
     entries:
       - title: github
         url: https://github.com/sebkolind
-      - title: ⛺ tent
-        url: https://github.com/tentjs/tent
       - title: email
         url: mailto:artiste_avid_0z@icloud.com
+  - title: projects
+    entries:
+      - title: ⛺ tent 〰︎ a jsx-free, super-lightweight and zero-dependency js library to add interactivity to the web.
+        url: https://github.com/tentjs/tent
   - title: posts
     post_list: true
