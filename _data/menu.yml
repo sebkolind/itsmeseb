@@ -1,0 +1,11 @@
+entries:
+  - title: me
+    entries:
+      - title: github
+        url: https://github.com/sebkolind
+      - title: ⛺ tent
+        url: https://github.com/tentjs/tent
+      - title: email
+        url: mailto:artiste_avid_0z@icloud.com
+  - title: posts
+    post_list: true

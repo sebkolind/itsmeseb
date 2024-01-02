@@ -20,18 +20,21 @@
 
 title: itsmeseb.
 email: sks1993@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Some day someone will fill this out.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://itsmeseb.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://itsmeseb.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: seb_lks
 github_username:  sebkolind
 
 # Build settings
-theme: minima
+theme: no-style-please
 plugins:
   - jekyll-feed
   - jekyll-analytics
+
+theme_config:
+  date_format: "%Y-%m-%d"
+  appearance: light
+  back_home_text: ".."
 
 # Plugin settings
 jekyll_analytics:
