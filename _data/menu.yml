@@ -5,9 +5,11 @@ entries:
         url: https://github.com/sebkolind
       - title: email
         url: mailto:artiste_avid_0z@icloud.com
+      - title: rss
+        url: https://itsmeseb.dev/feed.xml
   - title: projects
     entries:
-      - title: ⛺ tent 〰︎ a jsx-free, super-lightweight and zero-dependency library to add interactivity to the web.
+      - title: Tent 〰︎ a jsx-free, super-lightweight and zero-dependency library to add interactivity to the web.
         url: https://github.com/tentjs/tent
   - title: posts
     post_list: true
