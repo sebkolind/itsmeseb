@@ -29,17 +29,18 @@ github_username:  sebkolind
 theme: no-style-please
 plugins:
   - jekyll-feed
-  - jekyll-analytics
 
 theme_config:
   date_format: "%Y-%m-%d"
   appearance: light
   back_home_text: ".."
 
-# Plugin settings
-jekyll_analytics:
-  GoogleAnalytics:
-    id: G-97QX26CLYV
+# jekyll_rushed_analytics:
+#   GoogleAnalytics:
+#     id: UA-222867081-1
+#     anonymizeIp: false
+#   GoogleAnalytics4:
+#     measurement_id: G-97QX26CLYV
 
 # Exclude from processing.
 # The following items will not be processed, by default.
