@@ -39,7 +39,7 @@ theme_config:
 # Plugin settings
 jekyll_analytics:
   GoogleAnalytics:
-    id: UA-222867081-1
+    id: G-97QX26CLYV
 
 # Exclude from processing.
 # The following items will not be processed, by default.
